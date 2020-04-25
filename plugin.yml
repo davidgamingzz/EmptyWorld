@@ -1,0 +1,8 @@
+name: EmptyWorld
+main: david\emptyWorld\Loader
+load: STARTUP
+version: "1.0"
+api: 3.0.0
+authors:
+  - David
+description: Add an empty world generator
